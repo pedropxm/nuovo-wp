@@ -1,0 +1,18 @@
+[submodule "wp-content/themes/blank"]
+	path = wp-content/themes/blank
+	url = https://github.com/roots/roots.git
+[submodule "wp-content/plugins/contact-form-7"]
+	path = wp-content/plugins/contact-form-7
+	url = git://github.com/wp-plugins/contact-form-7.git
+[submodule "wp-content/plugins/admin-menu-editor"]
+	path = wp-content/plugins/admin-menu-editor
+	url = git://github.com/wp-plugins/admin-menu-editor.git
+[submodule "wp-content/plugins/filenames-to-latin"]
+	path = wp-content/plugins/filenames-to-latin
+	url = git://github.com/wp-plugins/filenames-to-latin.git
+[submodule "wp-content/plugins/simple-page-ordering"]
+	path = wp-content/plugins/simple-page-ordering
+	url = git://github.com/weareinteractive-wp/simple-page-ordering.git
+[submodule "wp-content/plugins/tinymce-advanced"]
+	path = wp-content/plugins/tinymce-advanced
+	url = git://github.com/weareinteractive-wp/tinymce-advanced.git
